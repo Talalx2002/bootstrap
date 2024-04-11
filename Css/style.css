@@ -1,0 +1,101 @@
+
+
+/* Navigation */
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+
+.container-fluid{
+
+    padding-left:  3%;
+}
+
+.nav-bar{
+
+    font-family: 'Helvetica Neue';
+    font-size: 1.5rem;
+}
+
+.nav-item:hover{
+    background-color: #fea116;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+   padding-right: 70%;
+   margin-left: 2%;
+}
+
+.pizza-img{
+
+    margin: 10% 13% 15%;
+    background-color: #2C3639;
+    padding-left: 15%;
+
+}
+
+/* -----------------------------------  ---------------- */
+
+body{
+
+    font-family: "montserrat-Black";
+}
+
+h1{ 
+    font-weight: bolder;
+    color: white;
+    font-size: 100px;
+    padding-bottom: 7%;
+}
+
+.title{
+
+    background-color: #2C3639;
+}
+h3{
+    color: white;
+    padding-bottom: 10%;
+}
+.title-text{
+    margin: 10% 7% 10% 0%;   
+    width: auto;
+    text-align: left;
+}
+.btn-width{
+
+    width: 35%;
+}
+
+#Middle{
+    background-color: #343a40; 
+    text-align: center;
+
+}
+
+.card-body{
+
+    background-color: #2C3639;
+    text-align: left;
+    color: white;
+}
+
+.cards-width{
+
+
+    padding-left: 10%; 
+
+}    
+.card-text{
+
+    font-family: "montserrat-Black";
+    line-height: 2;
+    font-weight: lighter;
+    font-size: 20px;
+}
+.card-title{
+
+   font-weight: bolder;
+   color: #fea116;
+   font-size: 50px;
+}
